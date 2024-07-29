@@ -1,0 +1,8 @@
+{
+    "title": "CustomNotebooksRole",
+    "description": "A custom role for switching notebook runtimes",
+    "stage": "GA",
+    "includedPermissions": [
+      "notebooks.runtimes.switch"
+    ]
+  }
